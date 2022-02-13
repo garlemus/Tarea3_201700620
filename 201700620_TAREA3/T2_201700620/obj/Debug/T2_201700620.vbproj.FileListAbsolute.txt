@@ -1,0 +1,12 @@
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\bin\Debug\T2_201700620.exe.config
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\bin\Debug\T2_201700620.exe
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\bin\Debug\T2_201700620.pdb
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\bin\Debug\T2_201700620.xml
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.vbprojAssemblyReference.cache
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.Form1.resources
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.Resources.resources
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.vbproj.GenerateResource.cache
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.vbproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.exe
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.xml
+C:\Users\javie\source\repos\T2_201700620\T2_201700620\obj\Debug\T2_201700620.pdb
